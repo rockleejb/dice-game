@@ -1,9 +1,5 @@
 body {
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/dice-img.jpeg');
     background-size: contain;
-    color: white;
-}
-
-div h1 {
-    color: palegreen;
+    color: #ccc;
 }
